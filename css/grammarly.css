@@ -1,0 +1,79 @@
+.bg-light {
+    background-color:#d0a78a  !important;
+}
+
+#Capa_1{
+	width: 30px;
+}
+.logo{
+	font-weight: bold;
+
+}
+.Add-btn{
+	background-color:#8c6239a6;
+	border-color:#8c6239a6;
+	border-radius: 50px;
+	padding-bottom:8px;
+	padding-right:20px;
+	padding-left:20px;
+	font-size: 16px;
+	float: right;
+}
+.Add-btn:hover,
+.Add-btn:focus
+{
+	background-color:#00800069;
+	border-color:#00800069;
+}
+.Add-btn span{
+    font-size: 13px;
+}
+.login-link{
+	font-size: 15px;
+	margin-left: 10px;
+	padding-top: 10px;
+	color: black;
+	float: right;	
+}
+.body{
+	background-image: url('../les images/grammarly.jpg');
+	background-repeat: no-repeat;
+	background-size:  100%,588px;
+	position: absolute;
+	height: 588px;
+	width: 100%;
+}
+.bol{
+	background-color: #00800069;
+	width:20px;
+	height: 20px;
+	border-radius: 20px;
+	margin-left: 10px;
+}
+.card {
+	margin-top: 20px;
+	margin-left: 10%;	
+	background-color:#e5f4f4;
+}
+.card-head{
+	margin-left: 15%;
+	font-weight: bold;
+	margin-top: 60px;
+	max-width: 500px;
+	font-size: 13px;
+}
+.other-span{
+	margin-left:10px;
+	font-size: 14px;
+}
+a{
+	color: black;
+}
+a:hover{
+	text-decoration: none;
+	color: #487571;
+}
+.card-title{
+	font-style: italic;
+	font-family: t;
+}
